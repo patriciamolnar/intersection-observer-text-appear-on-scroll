@@ -1,0 +1,3 @@
+# intersection-observer-text-appear-on-scroll
+Source code to the tutorial: "How to code a JavaScript Intersection Observer to make text appear as the user scrolls. Watch below: 
+This is a tutorial from Patricia Molnar. Forked from her github repo....
